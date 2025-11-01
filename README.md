@@ -1,2 +1,2 @@
-# artisan-os-mvp
-Artisan Market OS – MVP (FloridaCottageHub.com)
+Initial commit placeholder — enabling ChatGPT push access.
+
